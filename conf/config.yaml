@@ -1,0 +1,5 @@
+xxl_job_conf:
+  app_name: "testJob"
+  client_port: 8899
+  admin_address: "http://127.0.0.1:8090/xxl-job-admin"
+  token: "default_token"
